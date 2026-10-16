@@ -1,0 +1,6 @@
+{
+  "name": "Shohoj Khata",
+  "description": "Smart business accounting, ledger, and subscription management app for Bangladesh with Free & Premium plans",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
